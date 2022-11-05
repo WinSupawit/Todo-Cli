@@ -1,3 +1,0 @@
-@echo off
-cd Path to todo.py
-python todo.py %1 %2

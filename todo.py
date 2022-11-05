@@ -4,10 +4,10 @@ def help():
     help = """
         Usage :
             todo help             # Show help
-            todo add "todo item"  # Add a new todo
-            todo ls               # Show remaining todos
-            todo remove NUMBER    # Remove a todo
-            todo done NUMBER      # Mark task a done
+            todo add "todo item"  # Add new todo
+            todo ls               # Show remaining tasks
+            todo remove NUMBER    # Remove todo
+            todo done NUMBER      # Mark task as done
         """
     print(help)
 
